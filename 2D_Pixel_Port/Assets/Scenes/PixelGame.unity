@@ -412,7 +412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c25dab7fd851fd49b60399f53d7f6c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playSound: 0
+  playSound: 1
   audios: {fileID: 2083745293}
   coin: {fileID: 8300000, guid: ed92322306100aa49bee4e9f9e00f663, type: 3}
   btn: {fileID: 8300000, guid: 3f03e3685bc64b74bb322a61858d8be9, type: 3}
