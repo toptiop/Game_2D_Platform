@@ -11,6 +11,7 @@ namespace Pixel.GamePlay
             if (collision.CompareTag("Player"))
             {
                 GameManager.instance.AddPoint(point);
+                SoundManager.instance.PickupCoin();
                 Destroy(gameObject);
             }
         }

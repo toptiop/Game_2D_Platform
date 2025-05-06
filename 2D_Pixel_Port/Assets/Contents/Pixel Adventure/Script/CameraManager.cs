@@ -5,7 +5,7 @@ namespace Pixel.Camera
 {
     public class CameraManager : MonoBehaviour
     {
-        public List<GameObject> vCam;            // รายการกล้องที่ต้องตรวจสอบ
+        public List<GameObject> vCam;      
         public Vector2 sizeBox = new Vector2(5, 5);
         [SerializeField] private LayerMask playerLayer;
 
